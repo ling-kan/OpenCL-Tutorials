@@ -1,0 +1,10 @@
+﻿  Tutorial 1.cpp
+c:\users\ling-\onedrive\desktop\opencl tutorials - tutorial 1\opencl tutorials\tutorial 1\tutorial 1.cpp(188): warning C4101: 'global_size': unreferenced local variable
+  Generating code
+  1 of 812 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tutorial 1.vcxproj -> C:\Users\ling-\OneDrive\Desktop\OpenCL Tutorials - Tutorial 1\OpenCL Tutorials\x64\Release\Tutorial 1.exe
+  my_kernels.cl
+          1 file(s) copied.

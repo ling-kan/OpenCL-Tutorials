@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Tutorial 2.cpp
+  lodepng.cpp
+c:\users\ling-\onedrive\desktop\projects\opencl tutorials - tutorial 3\opencl tutorials\tutorial 2\graphics\lodepng\lodepng.cpp(3441): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  Generating Code...
+  Tutorial 2.vcxproj -> C:\Users\ling-\OneDrive\Desktop\Projects\OpenCL Tutorials - Tutorial 3\OpenCL Tutorials\x64\Debug\Tutorial 2.exe
+  my_kernels2.cl
+          1 file(s) copied.
